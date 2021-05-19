@@ -1,7 +1,7 @@
-# SVM_rice_classification
+# rice_classification
 中文:
 
-訓練資料集為水稻秧苗的照片,並且採用SVM(support vector machine)做為網路模型
+訓練資料集為水稻秧苗的照片,並且分別採用SVM(support vector machine)和CNN做為網路模型
 
 目標:辨識照片中是否含有水稻秧苗
 
@@ -11,7 +11,7 @@
 
 English:
 
-The training data set is photos of rice seedlings, and SVM (support vector machine) is used as the network model
+The training data set is photos of rice seedlings,and use SVM (support vector machine) and CNN as network models respectively
 
 Goal: Identify whether the photo contains rice seedlings
 
