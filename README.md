@@ -7,6 +7,8 @@
 
 使用kfold-validation做成果驗證
 
+
+
 English:
 
 The training data set is photos of rice seedlings, and SVM (support vector machine) is used as the network model
