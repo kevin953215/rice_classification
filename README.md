@@ -7,6 +7,7 @@
 
 使用kfold-validation做成果驗證
 
+CNN範例中使用了非常簡易的sliding window來嘗試框出含有秧苗的區域
 
 
 English:
